@@ -1,0 +1,2 @@
+# PrefaceCarplayAssistant
+吉利星瑞23款车机接Carplay盒子无法切歌,尝试写个助手程序实现切歌信号转接(挖坑)
